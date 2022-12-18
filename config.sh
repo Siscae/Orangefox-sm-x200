@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://github.com/Magendanz/android_device_samsung_gta8wifi.git -b fox_12.1"
+export FOX_BRANCH="fox_11.0"
+export DT_LINK="https://github.com/Magendanz/android_device_samsung_gta8wifi.git -b twrp-11"
 
 export DEVICE="gta8wifi"
 export OEM="samsung"
