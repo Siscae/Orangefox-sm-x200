@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/Magendanz/android_device_samsung_gta8wifi.git -b twrp-11"
+export DT_LINK="https://github.com/twrpdtgen/android_device_samsung_gta8wifi.git"
 
 export DEVICE="gta8wifi"
 export OEM="samsung"
@@ -22,7 +22,7 @@ DEPS=(
    )
 
 # Extra Command
-export EXTRA_CMD="export OF_MAINTAINER=Sushrut1101"
+export EXTRA_CMD="export OF_MAINTAINER=jayeudypdx"
 
 # Magisk
 ## Use the Latest Release of Magisk for the OrangeFox addon
