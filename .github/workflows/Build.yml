@@ -1,8 +1,6 @@
-on:
+ on:
 
-  fork:
-
-    
+  workflow_dispatch:
 
 env:
     # OrangeFox Sync Repository
