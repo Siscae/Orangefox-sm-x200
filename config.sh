@@ -24,16 +24,16 @@ DEPS=(
 # Extra Command
 export EXTRA_CMD="export OF_MAINTAINER=JayPDX"
 # OF build flags
-export FOX_RECOVERY_INSTALL_PARTITION := "/dev/block/by-name/recovery"
-export FOX_RECOVERY_SYSTEM_PARTITION := "/dev/block/by-name/system"
-export FOX_RECOVERY_VENDOR_PARTITION := "/dev/block/by-name/vendor"
-export FOX_RECOVERY_BOOT_PARTITION := "/dev/block/by-name/boot"
-export FOX_USE_NANO_EDITOR := 1
-export FOX_USE_BASH_SHELL := 1
-export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER := 1
-export OF_MAINTAINER := JayPDX
-export FOX_REMOVE_AAPT := 1
-export FOX_DELETE_INITD_ADDON := 1
+export FOX_RECOVERY_INSTALL_PARTITION="/dev/block/by-name/recovery"
+export FOX_RECOVERY_SYSTEM_PARTITION="/dev/block/by-name/system"
+export FOX_RECOVERY_VENDOR_PARTITION="/dev/block/by-name/vendor"
+export FOX_RECOVERY_BOOT_PARTITION="/dev/block/by-name/boot"
+export FOX_USE_NANO_EDITOR=1
+export FOX_USE_BASH_SHELL=1
+export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
+export OF_MAINTAINER=JayPDX
+export FOX_REMOVE_AAPT=1
+export FOX_DELETE_INITD_ADDON=1
 
 
 # Magisk
