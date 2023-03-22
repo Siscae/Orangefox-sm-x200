@@ -29,14 +29,14 @@ export FOX_RECOVERY_SYSTEM_PARTITION="/dev/block/by-name/system"
 export FOX_RECOVERY_VENDOR_PARTITION="/dev/block/by-name/vendor"
 export FOX_RECOVERY_BOOT_PARTITION="/dev/block/by-name/boot"
 export FOX_USE_NANO_EDITOR=1
-export FOX_USE_BASH_SHELL=1
+export FOX_REMOVE_BASH=1
 export FOX_DELETE_INITD_ADDON=1
-export FOX_ASH_IS_BASH=1
 export OF_KEEP_DM_VERITY=1
 export OF_DISABLE_MIUI_SPECIFIC_FEATURES=1
 export FOX_DELETE_AROMAFM=1
 export OF_SKIP_ORANGEFOX_PROCESS=1
 export OF_USE_TWRP_SAR_DETECT=1
+export OF_VANILLA_BUILD=1
 
 
 # Magisk
