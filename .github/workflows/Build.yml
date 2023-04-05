@@ -22,4 +22,4 @@ jobs:
 
       - name: android-recovery-action
 
-  uses: XenonTheInertG/android-recovery-action@v2.1.2
+      - uses: XenonTheInertG/android-recovery-action@v2.1.2
